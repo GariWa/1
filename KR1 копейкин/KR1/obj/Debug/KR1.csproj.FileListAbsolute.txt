@@ -1,0 +1,11 @@
+c:\users\terminal#35\documents\visual studio 2015\Projects\KR1\KR1\bin\Debug\KR1.exe.config
+C:\Users\Terminal#35\Documents\Visual Studio 2015\Projects\KR1\KR1\bin\Debug\baz.mdf
+C:\Users\Terminal#35\Documents\Visual Studio 2015\Projects\KR1\KR1\bin\Debug\baz_log.ldf
+C:\Users\Terminal#35\Documents\Visual Studio 2015\Projects\KR1\KR1\bin\Debug\KR1.exe
+C:\Users\Terminal#35\Documents\Visual Studio 2015\Projects\KR1\KR1\bin\Debug\KR1.pdb
+C:\Users\Terminal#35\Documents\Visual Studio 2015\Projects\KR1\KR1\obj\Debug\KR1.csprojResolveAssemblyReference.cache
+C:\Users\Terminal#35\Documents\Visual Studio 2015\Projects\KR1\KR1\obj\Debug\KR1.Form1.resources
+C:\Users\Terminal#35\Documents\Visual Studio 2015\Projects\KR1\KR1\obj\Debug\KR1.Properties.Resources.resources
+C:\Users\Terminal#35\Documents\Visual Studio 2015\Projects\KR1\KR1\obj\Debug\KR1.csproj.GenerateResource.Cache
+C:\Users\Terminal#35\Documents\Visual Studio 2015\Projects\KR1\KR1\obj\Debug\KR1.exe
+C:\Users\Terminal#35\Documents\Visual Studio 2015\Projects\KR1\KR1\obj\Debug\KR1.pdb
