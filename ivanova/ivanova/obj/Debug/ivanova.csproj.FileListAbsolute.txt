@@ -1,0 +1,9 @@
+c:\users\terminal#35\documents\visual studio 2015\Projects\ivanova\ivanova\bin\Debug\ivanova.exe.config
+c:\users\terminal#35\documents\visual studio 2015\Projects\ivanova\ivanova\bin\Debug\ivanova.exe
+c:\users\terminal#35\documents\visual studio 2015\Projects\ivanova\ivanova\bin\Debug\ivanova.pdb
+c:\users\terminal#35\documents\visual studio 2015\Projects\ivanova\ivanova\obj\Debug\ivanova.csprojResolveAssemblyReference.cache
+c:\users\terminal#35\documents\visual studio 2015\Projects\ivanova\ivanova\obj\Debug\ivanova.Form1.resources
+c:\users\terminal#35\documents\visual studio 2015\Projects\ivanova\ivanova\obj\Debug\ivanova.Properties.Resources.resources
+c:\users\terminal#35\documents\visual studio 2015\Projects\ivanova\ivanova\obj\Debug\ivanova.csproj.GenerateResource.Cache
+c:\users\terminal#35\documents\visual studio 2015\Projects\ivanova\ivanova\obj\Debug\ivanova.exe
+c:\users\terminal#35\documents\visual studio 2015\Projects\ivanova\ivanova\obj\Debug\ivanova.pdb

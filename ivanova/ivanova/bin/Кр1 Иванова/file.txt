@@ -1,0 +1,8 @@
+var a,b,c,i,m: integer;
+begin
+For i=0 to m do
+begin
+a=b+c+1;
+end;
+a=b+c+1;
+end
