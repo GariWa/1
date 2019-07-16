@@ -1,0 +1,37 @@
+c:\users\terminal#35\documents\visual studio 2015\Projects\Kyrsov\Kyrsov\bin\Debug\Kyrsov.exe.config
+c:\users\terminal#35\documents\visual studio 2015\Projects\Kyrsov\Kyrsov\bin\Debug\baza.mdf
+c:\users\terminal#35\documents\visual studio 2015\Projects\Kyrsov\Kyrsov\bin\Debug\baza_log.ldf
+c:\users\terminal#35\documents\visual studio 2015\Projects\Kyrsov\Kyrsov\bin\Debug\Kyrsov.exe
+c:\users\terminal#35\documents\visual studio 2015\Projects\Kyrsov\Kyrsov\bin\Debug\Kyrsov.pdb
+c:\users\terminal#35\documents\visual studio 2015\Projects\Kyrsov\Kyrsov\obj\Debug\Kyrsov.csprojResolveAssemblyReference.cache
+c:\users\terminal#35\documents\visual studio 2015\Projects\Kyrsov\Kyrsov\obj\Debug\Kyrsov.Form1.resources
+c:\users\terminal#35\documents\visual studio 2015\Projects\Kyrsov\Kyrsov\obj\Debug\Kyrsov.Properties.Resources.resources
+c:\users\terminal#35\documents\visual studio 2015\Projects\Kyrsov\Kyrsov\obj\Debug\Kyrsov.csproj.GenerateResource.Cache
+c:\users\terminal#35\documents\visual studio 2015\Projects\Kyrsov\Kyrsov\obj\Debug\Kyrsov.exe
+c:\users\terminal#35\documents\visual studio 2015\Projects\Kyrsov\Kyrsov\obj\Debug\Kyrsov.pdb
+c:\users\terminal#35\documents\visual studio 2015\Projects\Kyrsov\Kyrsov\obj\Debug\Kyrsov.Form2.resources
+C:\Users\Terminal#35\Documents\Visual Studio 2015\Projects\Kyrsov — копия\Kyrsov\bin\Debug\Kyrsov.exe.config
+C:\Users\Terminal#35\Documents\Visual Studio 2015\Projects\Kyrsov — копия\Kyrsov\obj\Debug\Kyrsov.exe
+C:\Users\Terminal#35\Documents\Visual Studio 2015\Projects\Kyrsov — копия\Kyrsov\obj\Debug\Kyrsov.pdb
+C:\Users\Terminal#35\Documents\Visual Studio 2015\Projects\Kyrsov — копия\Kyrsov\bin\Debug\baza.mdf
+C:\Users\Terminal#35\Documents\Visual Studio 2015\Projects\Kyrsov — копия\Kyrsov\bin\Debug\baza_log.ldf
+C:\Users\Terminal#35\Documents\Visual Studio 2015\Projects\Kyrsov — копия\Kyrsov\bin\Debug\Kyrsov.exe
+C:\Users\Terminal#35\Documents\Visual Studio 2015\Projects\Kyrsov — копия\Kyrsov\bin\Debug\Kyrsov.pdb
+C:\Users\Terminal#35\Documents\Visual Studio 2015\Projects\Kyrsov — копия\Kyrsov\obj\Debug\Kyrsov.csprojResolveAssemblyReference.cache
+C:\Users\Terminal#35\Documents\Visual Studio 2015\Projects\Kyrsov — копия\Kyrsov\obj\Debug\Kyrsov.Form1.resources
+C:\Users\Terminal#35\Documents\Visual Studio 2015\Projects\Kyrsov — копия\Kyrsov\obj\Debug\Kyrsov.Form2.resources
+C:\Users\Terminal#35\Documents\Visual Studio 2015\Projects\Kyrsov — копия\Kyrsov\obj\Debug\Kyrsov.Properties.Resources.resources
+C:\Users\Terminal#35\Documents\Visual Studio 2015\Projects\Kyrsov — копия\Kyrsov\obj\Debug\Kyrsov.csproj.GenerateResource.Cache
+C:\Users\Terminal#35\Documents\Visual Studio 2015\Projects\Kyrsov — копия — копия\Kyrsov\bin\Debug\Kyrsov.exe.config
+C:\Users\Terminal#35\Documents\Visual Studio 2015\Projects\Kyrsov — копия — копия\Kyrsov\obj\Debug\Kyrsov.exe
+C:\Users\Terminal#35\Documents\Visual Studio 2015\Projects\Kyrsov — копия — копия\Kyrsov\obj\Debug\Kyrsov.pdb
+C:\Users\Terminal#35\Documents\Visual Studio 2015\Projects\Kyrsov — копия — копия\Kyrsov\bin\Debug\baza.mdf
+C:\Users\Terminal#35\Documents\Visual Studio 2015\Projects\Kyrsov — копия — копия\Kyrsov\bin\Debug\baza_log.ldf
+C:\Users\Terminal#35\Documents\Visual Studio 2015\Projects\Kyrsov — копия — копия\Kyrsov\bin\Debug\Kyrsov.exe
+C:\Users\Terminal#35\Documents\Visual Studio 2015\Projects\Kyrsov — копия — копия\Kyrsov\bin\Debug\Kyrsov.pdb
+C:\Users\Terminal#35\Documents\Visual Studio 2015\Projects\Kyrsov — копия — копия\Kyrsov\obj\Debug\Kyrsov.csprojResolveAssemblyReference.cache
+C:\Users\Terminal#35\Documents\Visual Studio 2015\Projects\Kyrsov — копия — копия\Kyrsov\obj\Debug\Kyrsov.Form1.resources
+C:\Users\Terminal#35\Documents\Visual Studio 2015\Projects\Kyrsov — копия — копия\Kyrsov\obj\Debug\Kyrsov.Form2.resources
+C:\Users\Terminal#35\Documents\Visual Studio 2015\Projects\Kyrsov — копия — копия\Kyrsov\obj\Debug\Kyrsov.Properties.Resources.resources
+C:\Users\Terminal#35\Documents\Visual Studio 2015\Projects\Kyrsov — копия — копия\Kyrsov\obj\Debug\Kyrsov.csproj.GenerateResource.Cache
+C:\Users\Terminal#35\Documents\Visual Studio 2015\Projects\Kyrsov — копия — копия\Kyrsov\obj\Debug\Kyrsov.Form3.resources
